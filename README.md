@@ -21,7 +21,5 @@ https://github.com/cyruschuikc/Self-Develop/blob/main/ACN%20v1.01111131245.html
 https://github.com/cyruschuikc/Self-Develop/blob/main/ACN%20v1.01111134323.html
 ## Python
 ### Python-3
-- Caron.py
-https://github.com/cyruschuikc/Self-Develop/blob/main/Python-3/Caron.py
-- Toni.py
-https://github.com/cyruschuikc/Self-Develop/blob/main/Python-3/Toni.py
+- p3-NumPicker_by cyrusCKC.py
+https://github.com/cyruschuikc/Self-Develop/blob/main/Python-3/p3-NumPicker_by%20cyrusCKC.py
