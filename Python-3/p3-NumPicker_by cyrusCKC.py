@@ -20,7 +20,7 @@ def check():
   if LN not in MS:
     temp = temp+1
     MS[temp] = LN
-  else:
+  if temp > len(MS):
     MS.append(LN) 
 check()
 print("The lucky number is:",LN)
